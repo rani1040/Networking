@@ -1,0 +1,34 @@
+https://techdhee.in/change-username-in-kali-linux
+good website for changing user
+ifconfig -- it wiil bring ip address--communicate with layers three
+inet ipv4 --decimal notaion 32 bits--4 bytes1111111.111111111 2^32 --ip adresses
+inet6 ip6 --hexadecimal 
+net -assign private address 
+they start with 198 --private addresses
+What is a private IP address?
+A private IP address is the address your network router assigns to your device.
+Each device within the same network is assigned a unique private IP address (sometimes called a private network address) — this is how devices on the same internal network talk to each other.
+layer 2--router
+Mac addreess has identifier-- 3 pair tell device name --look up devices 
+media access control
+nec
+cell phone has mac address communicate with swithces
+
+layer 4 --Transport layer
+TCP --connection oriented http,
+UDP--streaming ,voice over,
+scanning
+TCP
+FTP(21)--FILE TRANSFER PROTOCAL -- capture file ,log in server 
+SSH(23)--encrypted version of telnet(ability to login in machine remotely)
+smtp(25)--mail
+DNS--resolve ip address to name /domain name system(computer dont know google google resolve ip address)
+http(80)--non secure version /https(443)----website -encrypted
+pop3(110)--
+smb(139+445)-- file shares (shamba) exploits--wynacry viruses /ms17010/eternal blue
+imap(143)-
+UDP
+DNS(53)--
+DHCP(67,68)---ip address asscoicate random static ,dhcp number btwn random give you static ip address
+TFTP(69) ---travial
+SNMP(161)-simple network protocol --strings/public strings
