@@ -1,0 +1,16 @@
+  P --Physical Layer --data cables,cat6
+  D --Data Layer     --Switching ,Mac Addreses
+  N - Network        --Ip Address,routing
+  T --Transport     --TCP/UDDP
+  S  --Session      --sesssion management
+  P --Presentation  ---WMV.JPEG,MOV
+  A --Application   --HTTP,SMTP
+  
+  hosts 128  64   32   16   8  4   2  1
+  subnet 128 192  224 240 248 252 254 255
+  how many hosts could be in 28 network?
+     28==255.255.255.240  subnet
+     hosts=19
+     network
+     198.168.1.0
+     192.168.1.15
